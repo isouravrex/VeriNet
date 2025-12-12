@@ -1,0 +1,27 @@
+{
+  "incident_id": "INC-20251211132427",
+  "user": "sarah.j@contoso.com",
+  "location": "DAL",
+  "severity": "Critical",
+  "root_cause": "Network degradation correlated with packet loss spikes",
+  "affected_systems": [
+    "SD-WAN",
+    "Teams",
+    "Z-Scaler"
+  ],
+  "recommendations": [
+    "Check router health",
+    "Review bandwidth allocation",
+    "Monitor ISP performance"
+  ],
+  "start_time": "2025-12-09 10:15:00",
+  "end_time": "2025-12-09 10:18:45",
+  "metrics": {
+    "avg_packet_loss": 43.6,
+    "max_packet_loss": 100.0,
+    "avg_jitter": 343.3333333333333,
+    "max_jitter": 500.0
+  },
+  "agent_id": "c7df6322",
+  "correlation_id": "099450e1-0f07-4d69-8a79-2df1b45fe4ed"
+}

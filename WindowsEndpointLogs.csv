@@ -1,0 +1,51 @@
+Timestamp,Hostname,User_Account,Process_Name,Event_ID,Severity,Error_Code,Description,Network_Adapter,CPU_Load_%
+2025-12-09 10:00:25,LPT-DAL-SARAH,CONTOSO\sarah.j,Outlook.exe,1001,INFO,0x0,Sync started.,Intel_Wi-Fi_6E,15
+2025-12-09 10:01:10,LPT-NYC-BOB,CONTOSO\bob.m,Chrome.exe,100,INFO,0x0,Application started.,Realtek_GbE,12
+2025-12-09 10:01:55,LPT-DAL-SARAH,CONTOSO\sarah.j,Teams.exe,100,INFO,0x0,Call established.,Intel_Wi-Fi_6E,22
+2025-12-09 10:02:40,LPT-DAL-SARAH,CONTOSO\sarah.j,System,12,INFO,0x0,Time sync success.,Intel_Wi-Fi_6E,10
+2025-12-09 10:03:25,LPT-DAL-SARAH,CONTOSO\sarah.j,OneDrive.exe,1001,INFO,0x0,File upload complete.,Intel_Wi-Fi_6E,18
+2025-12-09 10:04:15,LPT-CHI-TOM,CONTOSO\tom.h,WindowsUpdate,19,INFO,0x0,Update check.,Intel_Wi-Fi_6E,35
+2025-12-09 10:05:00,LPT-DAL-SARAH,CONTOSO\sarah.j,Teams.exe,100,INFO,0x0,Screen share started.,Intel_Wi-Fi_6E,45
+2025-12-09 10:05:45,LPT-DAL-SARAH,CONTOSO\sarah.j,System,1,INFO,0x0,Power state change.,Intel_Wi-Fi_6E,12
+2025-12-09 10:06:30,LPT-DAL-SARAH,CONTOSO\sarah.j,Security,4624,INFO,0x0,Privileged logon.,Intel_Wi-Fi_6E,15
+2025-12-09 10:07:15,LPT-DAL-SARAH,CONTOSO\sarah.j,Outlook.exe,1001,INFO,0x0,Sync complete.,Intel_Wi-Fi_6E,14
+2025-12-09 10:08:00,LPT-DAL-SARAH,CONTOSO\sarah.j,Teams.exe,100,INFO,0x0,Video active.,Intel_Wi-Fi_6E,28
+2025-12-09 10:08:45,LPT-DAL-SARAH,CONTOSO\sarah.j,Chrome.exe,100,INFO,0x0,Page load success.,Intel_Wi-Fi_6E,20
+2025-12-09 10:09:30,LPT-DAL-SARAH,CONTOSO\sarah.j,System,15,INFO,0x0,Disk cleanup.,Intel_Wi-Fi_6E,18
+2025-12-09 10:10:15,LPT-DAL-SARAH,CONTOSO\sarah.j,Teams.exe,100,INFO,0x0,Audio active.,Intel_Wi-Fi_6E,25
+2025-12-09 10:11:00,LPT-DAL-SARAH,CONTOSO\sarah.j,Defender,2001,INFO,0x0,Scan started.,Intel_Wi-Fi_6E,30
+2025-12-09 10:11:45,LPT-DAL-SARAH,CONTOSO\sarah.j,Teams.exe,100,INFO,0x0,Call quality stable.,Intel_Wi-Fi_6E,22
+2025-12-09 10:12:30,LPT-DAL-SARAH,CONTOSO\sarah.j,PrintSpooler,808,ERROR,0x57,Printer driver error (Unrelated).,Intel_Wi-Fi_6E,15
+2025-12-09 10:13:45,LPT-DAL-SARAH,CONTOSO\sarah.j,DNS_Client,1014,WARN,0x23,DNS name resolution delay.,Intel_Wi-Fi_6E,18
+2025-12-09 10:14:20,LPT-DAL-SARAH,CONTOSO\sarah.j,Teams.exe,1001,WARN,0x80072EE2,Network timeout.,Intel_Wi-Fi_6E,40
+2025-12-09 10:15:05,LPT-DAL-SARAH,CONTOSO\sarah.j,Netwtw10,5002,ERROR,0x5002,Wi-Fi Driver: Beacon Loss.,Intel_Wi-Fi_6E,12
+2025-12-09 10:15:40,LPT-DAL-SARAH,CONTOSO\sarah.j,Teams.exe,1002,CRITICAL,0x80040115,App Hang: Teams.exe stopped interacting.,Intel_Wi-Fi_6E,95
+2025-12-09 10:16:15,LPT-DAL-SARAH,CONTOSO\sarah.j,WLAN_AutoConfig,4001,WARN,0x0,WLAN Service Disconnected.,Intel_Wi-Fi_6E,10
+2025-12-09 10:16:50,LPT-DAL-SARAH,CONTOSO\sarah.j,Outlook.exe,1001,ERROR,0x8004011D,Server unavailable.,Intel_Wi-Fi_6E,15
+2025-12-09 10:17:25,LPT-DAL-SARAH,CONTOSO\sarah.j,DNS_Client,1014,ERROR,0x2,DNS resolution failed for contoso.com.,Intel_Wi-Fi_6E,12
+2025-12-09 10:18:00,LPT-DAL-SARAH,CONTOSO\sarah.j,WLAN_AutoConfig,4002,INFO,0x0,Scanning for networks.,Intel_Wi-Fi_6E,15
+2025-12-09 10:18:35,LPT-DAL-SARAH,CONTOSO\sarah.j,WLAN_AutoConfig,10002,WARN,0x0,WLAN Extensibility Module stopped.,Intel_Wi-Fi_6E,10
+2025-12-09 10:19:10,LPT-DAL-SARAH,CONTOSO\sarah.j,WLAN_AutoConfig,4000,INFO,0x0,WLAN Service Connected.,Intel_Wi-Fi_6E,20
+2025-12-09 10:19:45,LPT-DAL-SARAH,CONTOSO\sarah.j,Teams.exe,100,INFO,0x0,Reconnecting...,Intel_Wi-Fi_6E,60
+2025-12-09 10:20:20,LPT-DAL-SARAH,CONTOSO\sarah.j,Outlook.exe,1001,INFO,0x0,Connection restored.,Intel_Wi-Fi_6E,25
+2025-12-09 10:21:00,LPT-DAL-SARAH,CONTOSO\sarah.j,Teams.exe,100,INFO,0x0,Call resumed.,Intel_Wi-Fi_6E,30
+2025-12-09 10:21:35,LPT-DAL-SARAH,CONTOSO\sarah.j,System,12,INFO,0x0,Time sync success.,Intel_Wi-Fi_6E,12
+2025-12-09 10:22:10,LPT-DAL-SARAH,CONTOSO\sarah.j,Defender,2000,INFO,0x0,Scan completed.,Intel_Wi-Fi_6E,15
+2025-12-09 10:22:45,LPT-DAL-SARAH,CONTOSO\sarah.j,Teams.exe,100,INFO,0x0,Call quality stable.,Intel_Wi-Fi_6E,22
+2025-12-09 10:23:20,LPT-DAL-SARAH,CONTOSO\sarah.j,Chrome.exe,100,INFO,0x0,Browsing active.,Intel_Wi-Fi_6E,18
+2025-12-09 10:23:55,LPT-DAL-SARAH,CONTOSO\sarah.j,OneDrive.exe,1001,INFO,0x0,Sync complete.,Intel_Wi-Fi_6E,16
+2025-12-09 10:24:30,LPT-DAL-SARAH,CONTOSO\sarah.j,System,1,INFO,0x0,Power state active.,Intel_Wi-Fi_6E,12
+2025-12-09 10:25:05,LPT-DAL-SARAH,CONTOSO\sarah.j,Teams.exe,100,INFO,0x0,Meeting ended.,Intel_Wi-Fi_6E,15
+2025-12-09 10:25:40,LPT-DAL-SARAH,CONTOSO\sarah.j,Outlook.exe,1001,INFO,0x0,Sync started.,Intel_Wi-Fi_6E,14
+2025-12-09 10:26:15,LPT-DAL-SARAH,CONTOSO\sarah.j,System,12,INFO,0x0,Time sync success.,Intel_Wi-Fi_6E,10
+2025-12-09 10:26:50,LPT-DAL-SARAH,CONTOSO\sarah.j,Teams.exe,100,INFO,0x0,Idle.,Intel_Wi-Fi_6E,10
+2025-12-09 10:27:25,LPT-DAL-SARAH,CONTOSO\sarah.j,Chrome.exe,100,INFO,0x0,Active.,Intel_Wi-Fi_6E,18
+2025-12-09 10:28:00,LPT-DAL-SARAH,CONTOSO\sarah.j,System,15,INFO,0x0,Cleanup.,Intel_Wi-Fi_6E,12
+2025-12-09 10:28:35,LPT-DAL-SARAH,CONTOSO\sarah.j,Teams.exe,100,INFO,0x0,Idle.,Intel_Wi-Fi_6E,10
+2025-12-09 10:29:10,LPT-DAL-SARAH,CONTOSO\sarah.j,Outlook.exe,1001,INFO,0x0,Sync complete.,Intel_Wi-Fi_6E,14
+2025-12-09 10:29:45,LPT-DAL-SARAH,CONTOSO\sarah.j,System,1,INFO,0x0,Power active.,Intel_Wi-Fi_6E,12
+2025-12-09 10:30:20,LPT-DAL-SARAH,CONTOSO\sarah.j,Security,4624,INFO,0x0,Logon check.,Intel_Wi-Fi_6E,15
+2025-12-09 10:30:55,LPT-DAL-SARAH,CONTOSO\sarah.j,Teams.exe,100,INFO,0x0,Idle.,Intel_Wi-Fi_6E,10
+2025-12-09 10:31:30,LPT-DAL-SARAH,CONTOSO\sarah.j,System,12,INFO,0x0,Time sync.,Intel_Wi-Fi_6E,10
+2025-12-09 10:32:05,LPT-DAL-SARAH,CONTOSO\sarah.j,Chrome.exe,100,INFO,0x0,Active.,Intel_Wi-Fi_6E,18
+2025-12-09 10:32:40,LPT-DAL-SARAH,CONTOSO\sarah.j,OneDrive.exe,1001,INFO,0x0,Idle.,Intel_Wi-Fi_6E,10

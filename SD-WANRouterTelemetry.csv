@@ -1,0 +1,50 @@
+Timestamp,Router_ID,Interface_Name,Circuit_Provider,Status_Code,Jitter_ms,Packet_Loss_%,Throughput_Mbps,Syslog_Message
+2025-12-09 10:00:15,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,12,0.1,450,Link stable.
+2025-12-09 10:00:48,RTR-NYC-02,Gi0/0/1,Verizon_MPLS,UP_OK,15,0.0,320,Keepalive received.
+2025-12-09 10:01:22,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,14,0.1,455,Metrics sync successful.
+2025-12-09 10:02:10,RTR-DAL-01,Gi0/0/2,Backup_LTE,STBY,0,0.0,0,Interface standby mode.
+2025-12-09 10:03:05,RTR-CHI-05,Gi0/0/1,Comcast_Biz,UP_OK,22,0.2,180,Flow export complete.
+2025-12-09 10:04:15,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,13,0.1,460,QoS policy applied.
+2025-12-09 10:05:30,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,12,0.0,440,Routing table updated.
+2025-12-09 10:06:45,RTR-SFO-09,Gi0/0/1,Lumen_Fiber,UP_OK,18,0.0,500,Link stable.
+2025-12-09 10:07:22,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,16,0.1,450,No errors detected.
+2025-12-09 10:08:10,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,15,0.0,455,BFD session active.
+2025-12-09 10:09:00,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,14,0.1,460,Check-in successful.
+2025-12-09 10:10:15,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,17,0.2,445,Link stable.
+2025-12-09 10:11:05,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,13,0.0,450,Metrics push complete.
+2025-12-09 10:12:30,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,15,0.1,455,QoS priority normal.
+2025-12-09 10:13:45,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,WARN_LAT,85,0.5,420,Latency threshold warning.
+2025-12-09 10:14:20,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,WARN_JIT,120,1.5,400,Jitter increasing.
+2025-12-09 10:15:05,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,ERR_DEG,350,5.8,250,High packet loss detected.
+2025-12-09 10:15:35,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,ERR_FLAP,480,12.5,150,Interface flapping state.
+2025-12-09 10:15:50,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,CRIT_FAIL,600,25.0,50,BFD Session Down. Neighbor Unreachable.
+2025-12-09 10:16:15,RTR-DAL-01,System,System,ALERT,0,0.0,0,Triggering failover to LTE Backup.
+2025-12-09 10:16:45,RTR-DAL-01,Gi0/0/2,Backup_LTE,UP_NEG,150,2.0,50,Backup link active (Low Bandwidth).
+2025-12-09 10:17:10,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,DOWN,0,100.0,0,Primary Circuit Down.
+2025-12-09 10:17:40,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,ATTEMPT,20,90.0,0,Attempting renegotiation...
+2025-12-09 10:18:15,RTR-DAL-01,Gi0/0/2,Backup_LTE,CONGEST,200,5.0,45,Backup link congestion detected.
+2025-12-09 10:18:50,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,DOWN,0,100.0,0,Primary link negotiation failed.
+2025-12-09 10:19:25,RTR-DAL-01,Gi0/0/2,Backup_LTE,UP_OK,180,3.5,48,Traffic rerouted via tunnel T100.
+2025-12-09 10:20:00,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_PROBE,45,15.0,10,Probe packets responding.
+2025-12-09 10:20:45,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,RECOVER,30,2.0,200,Primary link stabilizing.
+2025-12-09 10:21:20,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,25,0.5,350,BFD Session Up.
+2025-12-09 10:21:55,RTR-DAL-01,System,System,INFO,0,0.0,0,Failback to Primary initiated.
+2025-12-09 10:22:30,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,15,0.1,450,Normal operation resumed.
+2025-12-09 10:23:05,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,14,0.0,455,Route convergence complete.
+2025-12-09 10:23:45,RTR-NYC-02,Gi0/0/1,Verizon_MPLS,UP_OK,15,0.0,320,Metrics sync.
+2025-12-09 10:24:20,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,13,0.1,460,Link stable.
+2025-12-09 10:25:00,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,12,0.0,450,End of log block.
+2025-12-09 10:25:35,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,14,0.0,455,QoS applied.
+2025-12-09 10:26:10,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,12,0.1,460,No errors.
+2025-12-09 10:26:45,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,13,0.0,450,Link stable.
+2025-12-09 10:27:20,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,14,0.0,455,Metrics sync.
+2025-12-09 10:28:00,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,12,0.1,460,Link stable.
+2025-12-09 10:28:35,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,13,0.0,450,QoS normal.
+2025-12-09 10:29:10,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,14,0.0,455,Link stable.
+2025-12-09 10:29:45,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,12,0.1,460,Metrics sync.
+2025-12-09 10:30:20,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,13,0.0,450,End of capture.
+2025-12-09 10:30:55,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,14,0.0,455,Status OK.
+2025-12-09 10:31:30,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,12,0.0,450,Status OK.
+2025-12-09 10:32:05,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,13,0.1,455,Status OK.
+2025-12-09 10:32:40,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,14,0.0,460,Status OK.
+2025-12-09 10:33:15,RTR-DAL-01,Gi0/0/1,AT&T_Fiber,UP_OK,12,0.0,450,Status OK.
